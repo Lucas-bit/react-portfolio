@@ -1,0 +1,19 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "React Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucas-bit/react-portfolio.git"
+  },
+  "author": "Lucas Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucas-bit/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/Lucas-bit/react-portfolio#readme"
+}
