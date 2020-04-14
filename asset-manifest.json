@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3e1502eb.chunk.css",
+    "main.js": "/static/js/main.469d7db8.chunk.js",
+    "main.js.map": "/static/js/main.469d7db8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c4d7dc80.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c4d7dc80.js.map",
+    "static/js/2.e1be3e2e.chunk.js": "/static/js/2.e1be3e2e.chunk.js",
+    "static/js/2.e1be3e2e.chunk.js.map": "/static/js/2.e1be3e2e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b3d0561942c8eba636e10b6eae228dfc.js": "/precache-manifest.b3d0561942c8eba636e10b6eae228dfc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3e1502eb.chunk.css.map": "/static/css/main.3e1502eb.chunk.css.map",
+    "static/js/2.e1be3e2e.chunk.js.LICENSE.txt": "/static/js/2.e1be3e2e.chunk.js.LICENSE.txt",
+    "static/media/Trouvaille-screenshot.png": "/static/media/Trouvaille-screenshot.eb79a365.png",
+    "static/media/Weather-App (2).png": "/static/media/Weather-App (2).649e90d3.png",
+    "static/media/Workout-App (2).png": "/static/media/Workout-App (2).be15f234.png",
+    "static/media/burgerApp.png": "/static/media/burgerApp.964e8c70.png",
+    "static/media/calendar-app.png": "/static/media/calendar-app.8bcc60ae.png",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/lucas-headshot.jpg": "/static/media/lucas-headshot.279b4926.jpg",
+    "static/media/App.css": "/static/media/lucas-volcano.d921bc72.jpg",
+    "static/media/noteTaker.png": "/static/media/noteTaker.44091af6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4d7dc80.js",
+    "static/js/2.e1be3e2e.chunk.js",
+    "static/css/main.3e1502eb.chunk.css",
+    "static/js/main.469d7db8.chunk.js"
+  ]
+}
