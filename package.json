@@ -2,6 +2,7 @@
   "name": "react-portfolio",
   "version": "1.0.0",
   "description": "React Portfolio",
+  "homepage": "https://lucas-bit.github.io/react-portfolio/",
   "main": "server.js",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
